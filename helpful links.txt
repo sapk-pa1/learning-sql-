@@ -1,0 +1,6 @@
+https://stackoverflow.com/questions/8213/generate-insert-sql-statements-from-a-csv-file 
+
+
+-- Concatinating the different rows data into the same columns 
+
+https://stackoverflow.com/questions/194852/how-to-concatenate-text-from-multiple-rows-into-a-single-text-string-in-sql-serv
